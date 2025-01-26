@@ -1,33 +1,33 @@
-<h1 align="center">👋 Hi there, I'm Mester Achraf!</h1>
+<h1 align="center">👋 Hi there, I'm BOUTEJDIR ACHRAF!</h1>
 
-<!-- Animation des spécialités -->
+<!-- Specialties Animation -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38C2FF&center=true&width=600&lines=🌍+GIS+Expert;🤖+AI+and+Deep+Learning+Specialist;🔐+Networking+%26+Cybersecurity;⚙️+System+Administrator;🚀+Passionate+Learner+and+Innovator" alt="Typing Animation" />
 </div>
 
 ---
 
-### 👤 **À Propos de Moi**
-Je suis **Mester Achraf**, un passionné de **technologies et d'innovations**. Mon parcours académique et professionnel m'a permis d'acquérir une expertise dans divers domaines tels que :  
-- 🌍 **SIG (Systèmes d’Information Géographique)** : Combiner des approches géospatiales et de machine learning pour résoudre des problèmes complexes.  
-- 🤖 **Intelligence Artificielle** : Spécialiste des réseaux neuronaux convolutifs (CNN) et de l'apprentissage par transfert.  
-- 🔐 **Réseautique et Cybersécurité** : Connaissances approfondies des outils et technologies pour sécuriser les systèmes et réseaux.  
-- ⚙️ **Administration Systèmes** : Gestion et automatisation des infrastructures techniques.  
+### 👤 **About Me**
+I am **Boutejdir Achraf**, a passionate **technology and innovation enthusiast**. My academic and professional journey has allowed me to gain expertise in various fields such as:  
+- 🌍 **GIS (Geographic Information Systems)**: Combining geospatial approaches and machine learning to solve complex problems.  
+- 🤖 **Artificial Intelligence**: Specialist in Convolutional Neural Networks (CNN) and transfer learning.  
+- 🔐 **Networking and Cybersecurity**: In-depth knowledge of tools and technologies to secure systems and networks.  
+- ⚙️ **System Administration**: Management and automation of technical infrastructures.  
 
-Toujours à la recherche de nouveaux défis, j'aime collaborer sur des projets innovants.
-
----
-
-### 🌐 **Langues** 
-- 🇲🇦 **Arabe** : Langue maternelle
-- 🇬🇧 **Anglais** : Professionnel
-- 🇫🇷 **Français** : Courant  
+Always seeking new challenges, I enjoy collaborating on innovative projects.
 
 ---
 
-### 🛠️ **Compétences Techniques**
+### 🌐 **Languages** 
+- 🇲🇦 **Arabic**: Native language
+- 🇬🇧 **English**: Professional
+- 🇫🇷 **French**: Fluent  
 
-#### 🔹 **Développement et Programmation**
+---
+
+### 🛠️ **Technical Skills**
+
+#### 🔹 **Development and Programming**
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -38,14 +38,14 @@ Toujours à la recherche de nouveaux défis, j'aime collaborer sur des projets i
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </div>
 
-#### 🔹 **Frameworks Deep Learning**
+#### 🔹 **Deep Learning Frameworks**
 <div>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </div>
 
-#### 🔹 **Data Science et Machine Learning**
+#### 🔹 **Data Science and Machine Learning**
 <div>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -56,7 +56,7 @@ Toujours à la recherche de nouveaux défis, j'aime collaborer sur des projets i
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </div>
 
-#### 🔹 **Réseautique et Cybersécurité**
+#### 🔹 **Networking and Cybersecurity**
 <div>
   <img src="https://img.shields.io/badge/Cisco-2965E3?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
@@ -64,7 +64,7 @@ Toujours à la recherche de nouveaux défis, j'aime collaborer sur des projets i
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
 </div>
 
-#### 🔹 **DevOps et Administration Systèmes**
+#### 🔹 **DevOps and System Administration**
 <div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -73,7 +73,7 @@ Toujours à la recherche de nouveaux défis, j'aime collaborer sur des projets i
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
-#### 🔹 **SIG (Systèmes d’Information Géographique)**
+#### 🔹 **GIS (Geographic Information Systems)**
 <div>
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
   <img src="https://img.shields.io/badge/ArcGIS-2C8EBB?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS" />
@@ -83,11 +83,9 @@ Toujours à la recherche de nouveaux défis, j'aime collaborer sur des projets i
 
 ---
 
-### 🎯 **Me Contacter**
+### 🎯 **Contact Me**
 <div align="center">
-  <a href="https://linkedin.com/in/mester-ab" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/mes" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:mester.achraf@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/achraf-boutejdir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+  <a href="mailto:boutejdir.achraf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
-
-
